@@ -1,0 +1,3 @@
+# ImageCropperApp application
+
+moderndesktopminimal template
